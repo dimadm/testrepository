@@ -23,4 +23,4 @@ except ValueError:
 oper = input("Введите математическую операцию (+-*/): ")
 
 print ("Ответ: ", arithmetic(x, y, oper))
-#My first task
+#My first taskss
